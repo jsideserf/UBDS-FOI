@@ -1,8 +1,6 @@
 ## FOI Request Base Power Pages Site and Solution
 
-# DISCLAIMER
-
-This solution is provided as is, intended as a proof of concept to demonstrate Power Platform capability and is not intended for production use in its current state. UBDS makes no representation or warranty, express or implied for this solution. If you would like to arrange for support with further development of this solution, please reach out to us at hello@ubds.com. Please ensure you have consulted with your IT administrator before installing this solution.
+DISCLAIMER: This solution is provided as is, intended as a proof of concept to demonstrate Power Platform capability and is not intended for production use in its current state. UBDS makes no representation or warranty, express or implied for this solution. If you would like to arrange for support with further development of this solution, please reach out to us at hello@ubds.com. Please ensure you have consulted with your IT administrator before installing this solution.
 
 # Prerequisites
 - Custom components have been enabled on the Power Platform environment where the solution is to be imported to
